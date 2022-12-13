@@ -1,4 +1,4 @@
-## Welcoming the participants
+## Welcoming the participants :crystal_ball:
 - Thank you all for coming.
 - I appreciate everyone being here.
 - First, I’d like to welcome you all.
@@ -6,7 +6,7 @@
 - Good morning everyone. If we're all here, let's get started.
 - I wish to thank you all for coming on such short notice.
 
-## Introducing (Introduce Yourself and Asking Others to Introduce Themselves)
+## Introducing (Introduce Yourself and Asking Others to Introduce Themselves) :bookmark:
 
 - Let’s introduce ourselves quickly - please state your name, job title and why you are here
 - Let’s go around the table and introduce ourselves, [name] do you want to start?
