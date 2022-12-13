@@ -20,7 +20,7 @@
 - Good to meet you all, my name is [Your Name] and I'm a frontend engineer here at [Company Name]. I started with the company seven months ago and I'm excited to be working with you all.
 - Hi everyone, my name is [Your Name] and I'm a frontend engineer. I've been with the company for seven months now. I nominate [Person name]. Please contunie
 
-## How to explain meeting topic?
+## How to explain meeting topic? :pencil2:
 
 To explain the topic of a meeting, you can start by saying something like: 'Today's meeting is about [topic]. We will be discussing [key points or goals of the meeting].' You can then provide any relevant background information or context, and outline the main points or objectives that will be covered in the meeting. It can also be helpful to provide an agenda or outline of the meeting to help participants understand the structure and flow of the discussion. You can conclude by stating the expected outcome of the meeting and how it relates to the overall goals or objectives of the group.
 
@@ -44,7 +44,7 @@ To explain the topic of a meeting, you can start by saying something like: 'Toda
 - Welcome, everyone. To help us stay focused and productive, we will be following this agenda: [provide an outline of the meeting, including the topics that will be discussed and the expected flow of the discussion]. Let's begin with [first topic on the agenda].
 - Good morning/afternoon/evening, everyone. Today's meeting is about [topic]. We will be discussing [key points or goals of the meeting]. Let's get started by discussing [first topic on the agenda].
 
-## How do we ask someone to express their opinion in a meeting?
+## How do we ask someone to express their opinion in a meeting? :hibiscus:
 
 - Is there something on your mind that you'd like to share with the group?
 - I'd love to get some ideas from everybody
@@ -62,7 +62,7 @@ To explain the topic of a meeting, you can start by saying something like: 'Toda
 - What's on your mind? I'd love to hear your thoughts
 - Does anyone have any other thoughts on this topic?
 
-## How do you explain your opinion on a subject that you are not sure about at meetings?
+## How do you explain your opinion on a subject that you are not sure about at meetings? :hibiscus:
 
 - I'm not sure about this topic, but my thought is that it could be done this way.
 - I'm not certain, but my guess is that it would go in this direction.
@@ -76,7 +76,7 @@ To explain the topic of a meeting, you can start by saying something like: 'Toda
 - I may not have all the information, but my thought is that it would be best to do it this way.
 - I'm not sure, but my instinct is that it would be best to approach it this way.
 
-## How to say returning to the meeting that has become distracted?
+## How to say returning to the meeting that has become distracted? :key:
 
 - Can we please focus on the agenda and avoid getting distracted by unrelated topics?
 - I'm noticing that the conversation has become distracted. Let's take a few minutes to regroup and refocus on the meeting's purpose.
@@ -87,7 +87,7 @@ To explain the topic of a meeting, you can start by saying something like: 'Toda
 - We're getting distracted. Let's refocus on the meeting's goals.
 - It's been lovely to catch up, but we should focus the topic.
 
-## How do we express our disapproval of a proposal in a meeting?
+## How do we express our disapproval of a proposal in a meeting? :key:
 
 - I see things differently. Let me explain.
 - I don't think that's the best approach.
@@ -107,7 +107,7 @@ To explain the topic of a meeting, you can start by saying something like: 'Toda
 - I respect your opinion, but I think we should explore other options before making a decision.
 - From my perspective, it’s a little different. Let me explain.
 
-## How do you say you agree with someone's opinion?
+## How do you say you agree with someone's opinion? :ledger:
 
 - I completely agree.
 - I totally agree.
@@ -128,7 +128,7 @@ To explain the topic of a meeting, you can start by saying something like: 'Toda
 - I'm convinced that what you saying.
 - I agree with your proposal and I think it's worth pursuing.
 
-## How do you say you have to leave the meeting early?
+## How do you say you have to leave the meeting early? :ledger:
 
 - I'm sorry, must jump to a next meeting
 - I'm sorry, but I have to leave the meeting early.
@@ -142,7 +142,7 @@ To explain the topic of a meeting, you can start by saying something like: 'Toda
 - I'm afraid I have to go, so I'll have to leave the meeting early.
 - I must take my leave from the meeting early, but I thank you for your understanding.
 
-## How can you say that you don't understand something at the meeting?
+## How can you say that you don't understand something at the meeting? :bulb:
 
 - I'm sorry, but I'm not following. Could you please explain it again?
 - I apologize, but I'm having trouble understanding. Could you provide more details?
@@ -166,7 +166,7 @@ To explain the topic of a meeting, you can start by saying something like: 'Toda
 - I'm not sure what you mean. Could you give me more details?
 - I'm not sure what you're saying. Could you spell it out for me?
 
-## How do you ask someone to repeat something in meeting?
+## How do you ask someone to repeat something in meeting? :bulb:
 
 - I'm sorry, I didn't quite catch that. Could you repeat it for me?
 - Could you please repeat the last thing you said? I missed it.
@@ -182,7 +182,7 @@ To explain the topic of a meeting, you can start by saying something like: 'Toda
 - Could you explain that in another way, please?
 - I'm afraid I didn’t get that.
 
-## How to interrupt someone in a meeting?
+## How to interrupt someone in a meeting? :mega:
 
 - Excuse me, but I have a quick question.
 - I'm sorry to interrupt, but I have something to add.
@@ -196,7 +196,7 @@ To explain the topic of a meeting, you can start by saying something like: 'Toda
 - Can I interrupt for a moment to ask a question?
 - I apologize for the interruption, but I have a quick comment to make.
 
-## How to say new proposal in the meeting?
+## How to say new proposal in the meeting? :mega:
 
 - I have a new proposal that I'd like to discuss.
 - I have an idea that I think could be beneficial. Can I propose it in the meeting?
@@ -208,7 +208,7 @@ To explain the topic of a meeting, you can start by saying something like: 'Toda
 - I have a suggestion for the meeting.
 - I'd like to propose something new.
 
-## How do you say at the meeting that we can't decide and we'll leave it for later?
+## How do you say at the meeting that we can't decide and we'll leave it for later? :cd:
 
 - We can't decide on this now, so let's table it for now and come back to it later.
 - We're not able to make a decision on this at the moment, so let's put it aside and revisit it later.
@@ -232,7 +232,7 @@ To explain the topic of a meeting, you can start by saying something like: 'Toda
 - I don't think we're ready to make a decision yet. Let's take some time to think about it and come back to it later.
 - I don't think we're all on the same page. Let's take some time to consider our options and come back to it later.
 
-## How to arrange next meeting?
+## How to arrange next meeting? :gun:
 
 - Let's schedule the next meeting for [date and time].
 - When is a good time for the next meeting?
@@ -246,7 +246,7 @@ To explain the topic of a meeting, you can start by saying something like: 'Toda
 - We should plan the next meeting soon. Can we find a time that works for everyone? Please let me know your availability.
 - Let's set the date and time for the next meeting. Can you check your schedule and let me know if [date and time] works for you?
 
-## How do you say in a meeting that someone misunderstood you?
+## How do you say in a meeting that someone misunderstood you? :gun:
 
 - I think there was a misunderstanding. Let me clarify...
 - That's not quite what I had in mind.
@@ -263,7 +263,7 @@ To explain the topic of a meeting, you can start by saying something like: 'Toda
 - I'm afraid you don't understand what I'm saying.
 - That's not what I meant.
 
-## What are the negotiable sentences in a meeting?
+## What are the negotiable sentences in a meeting? :blue_book:
 
 - I think we could be flexible on this point.
 - This could be open for discussion.
@@ -282,7 +282,7 @@ To explain the topic of a meeting, you can start by saying something like: 'Toda
 - I think we could be flexible on this point.
 - I'd like to suggest a possible compromise on this issue.
 
-## How to accept a meeting invitation? 
+## How to accept a meeting invitation? :blue_book:
 
 - I'd be happy to attend the meeting. Thank you for inviting me.
 - Yes, I'm available for the meeting. Looking forward to it.
@@ -305,7 +305,7 @@ To explain the topic of a meeting, you can start by saying something like: 'Toda
 - I'm free at that time. I'll be there.
 - Yes, I can make it to the meeting. Thanks for the invite.
 
-## How to decline a meeting professional way?
+## How to decline a meeting professional way? :scroll:
 
 - Thank you for inviting me to the meeting, but I'm unable to attend.
 - I'm sorry, but I'm not available for the meeting. Thank you for the invitation.
@@ -318,7 +318,7 @@ To explain the topic of a meeting, you can start by saying something like: 'Toda
 - Thank you for inviting me, but I'm not available for the meeting. Sorry for any inconvenience.
 - I appreciate the invite, but I'm sorry I won't be able to attend the meeting. Thank you for considering me.
 
-## How to say goodbye for the next meeting?
+## How to say goodbye for the next meeting? :scroll:
 
 - Thank you all for coming. Let's schedule the next meeting for [date and time].
 - That concludes our meeting for today. Let's plan the next one soon.
@@ -334,7 +334,7 @@ To explain the topic of a meeting, you can start by saying something like: 'Toda
 - I look forward to seeing you again soon.
 - We've covered everything on the agenda. Let's set the date and time for the next meeting and wrap up for today.
 
-## How to close meeting?
+## How to close meeting? :pencil2:
 
 In these examples, the use of phrases like "I think we're done here" and "I think that's everything for today" can help to indicate that the meeting is coming to an end, while still being polite and respectful. By emphasizing that there are other tasks that need to be completed, you can encourage attendees to wrap up and move on to their next tasks in a timely manner.
 
