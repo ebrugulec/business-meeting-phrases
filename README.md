@@ -13,12 +13,12 @@
 
 ### Examples
 
-- Hi everyone, my name is [Your Name] and I'm a frontend engineer. I've been with the company for seven months now.
-- Good morning/afternoon/evening, my name is [Your Name] and I'm a frontend engineer here at [Company Name]. I started seven months ago.
-- Hello, I'm [Your Name] and I'm a frontend engineer at [Company Name]. I joined the team seven months ago and I'm happy to be here.
-- Hi, I'm [Your Name]. I've been working as a frontend engineer at [Company Name] for the past seven months.
-- Good to meet you all, my name is [Your Name] and I'm a frontend engineer here at [Company Name]. I started with the company seven months ago and I'm excited to be working with you all.
-- Hi everyone, my name is [Your Name] and I'm a frontend engineer. I've been with the company for seven months now. I nominate [Person name]. Please contunie
+- Hi everyone, my name is [Your Name] and I'm a [job title]. I've been with the company for [date] now.
+- Good morning/afternoon/evening, my name is [Your Name] and I'm a [job title] here at [Company Name]. I started [date] months ago.
+- Hello, I'm [Your Name] and I'm a [job title] at [Company Name]. I joined the team [date] months ago and I'm happy to be here.
+- Hi, I'm [Your Name]. I've been working as a [job title] at [Company Name] for the past [date] months.
+- Good to meet you all, my name is [Your Name] and I'm a [job title] here at [Company Name]. I started with the company [date] months ago and I'm excited to be working with you all.
+- Hi everyone, my name is [Your Name] and I'm a [job title]. I've been with the company for [date] months now. I nominate [Person name]. Please contunie
 
 ## How to explain meeting topic? :pencil2:
 
@@ -44,7 +44,7 @@ To explain the topic of a meeting, you can start by saying something like: 'Toda
 - Welcome, everyone. To help us stay focused and productive, we will be following this agenda: [provide an outline of the meeting, including the topics that will be discussed and the expected flow of the discussion]. Let's begin with [first topic on the agenda].
 - Good morning/afternoon/evening, everyone. Today's meeting is about [topic]. We will be discussing [key points or goals of the meeting]. Let's get started by discussing [first topic on the agenda].
 
-## How do we ask someone to express their opinion in a meeting? :hibiscus:
+## How to ask someone's opinion at a meeting? 🌺
 
 - Is there something on your mind that you'd like to share with the group?
 - I'd love to get some ideas from everybody
@@ -87,14 +87,14 @@ To explain the topic of a meeting, you can start by saying something like: 'Toda
 - We're getting distracted. Let's refocus on the meeting's goals.
 - It's been lovely to catch up, but we should focus the topic.
 
-## How do we express our disapproval of a proposal in a meeting? :key:
+## How do you say If you disagree with an opinion in a meeting? :key:
 
 - I see things differently. Let me explain.
 - I don't think that's the best approach.
 - I have a different perspective.
 - I don't agree with that proposal.
 - I see your point, but I respectfully disagree.
-- I'm sorry, but | don’t agree with that at all.
+- I'm sorry, but I don’t agree with that at all.
 - Well, yes and no-can I explain to you how I see it?
 - I understand what you're saying, but I have a different perspective on this issue.
 - I appreciate your input, but I don't think that would be the best approach in this situation.
@@ -128,7 +128,7 @@ To explain the topic of a meeting, you can start by saying something like: 'Toda
 - I'm convinced that what you saying.
 - I agree with your proposal and I think it's worth pursuing.
 
-## How do you say you have to leave the meeting early? :ledger:
+## How to politely leave a meeting early :ledger:
 
 - I'm sorry, must jump to a next meeting
 - I'm sorry, but I have to leave the meeting early.
@@ -142,8 +142,9 @@ To explain the topic of a meeting, you can start by saying something like: 'Toda
 - I'm afraid I have to go, so I'll have to leave the meeting early.
 - I must take my leave from the meeting early, but I thank you for your understanding.
 
-## How can you say that you don't understand something at the meeting? :bulb:
+## What to say when you don’t understand at the meeting? :bulb:
 
+- I'm afraid I didn’t get that.
 - I'm sorry, but I'm not following. Could you please explain it again?
 - I apologize, but I'm having trouble understanding. Could you provide more details?
 - I apologize if I'm misunderstanding. Could you elaborate?
@@ -180,9 +181,8 @@ To explain the topic of a meeting, you can start by saying something like: 'Toda
 - Could you repeat what you just said? I missed it.
 - I'm sorry, could you repeat the last thing you said? I didn't hear it.
 - Could you explain that in another way, please?
-- I'm afraid I didn’t get that.
 
-## How to interrupt someone in a meeting? :mega:
+## How to interrupt in meetings politely :mega:
 
 - Excuse me, but I have a quick question.
 - I'm sorry to interrupt, but I have something to add.
@@ -195,6 +195,12 @@ To explain the topic of a meeting, you can start by saying something like: 'Toda
 - I'm sorry to cut in, but I have a question to ask.
 - Can I interrupt for a moment to ask a question?
 - I apologize for the interruption, but I have a quick comment to make.
+- Do you mind if I just jump in really quick?
+- I don’t mean to interrupt, but…
+- May I interrupt briefly?
+- Can I just add my two cents?
+- Can I quickly share an idea that just popped in?
+- Can I just add something here?
 
 ## How to say new proposal in the meeting? :mega:
 
@@ -358,15 +364,3 @@ In these examples, the use of phrases like "I think we're done here" and "I thin
 - Let's end the meeting here and get started on implementing our plans.
 - Let's close the meeting and move forward with our plans.
 - Thank you all for coming. Let's end the meeting here and follow up on any remaining tasks.
-
-
-
-Moving Forward
-Use these phrases to transition to the main focus of your meeting.
-
-So, if there is nothing else we need to discuss, let's move on to today's agenda.
-Shall we get down to business?
-Is there any other business?
-If there are no further developments, I'd like to move on to today's topic.
-
-Once again, I'd like to thank you all for coming. Now, shall we get down to business?
